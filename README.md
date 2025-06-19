@@ -5,7 +5,7 @@ The queries demonstrate the use of **SELECT**, **WHERE**, **JOIN**, and **YEAR()
 
 ---
 
-## 📝 Questions & SQL Answers
+## 📝 SQL Structure
 ![image](https://github.com/user-attachments/assets/1d5ba39a-a804-4480-b541-2749860f0846)
 
 ### Display all product names from the `Products` table
